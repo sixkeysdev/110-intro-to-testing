@@ -1,0 +1,11 @@
+{
+  "name": "110-intro-to-testing",
+  "version": "1.0.0",
+  "description": "repo covering front and backend testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sixkeysdev",
+  "license": "ISC"
+}
